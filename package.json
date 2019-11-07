@@ -1,0 +1,16 @@
+{
+  "name": "javascript-advance",
+  "version": "1.0.0",
+  "description": "Proyecto de curso javaScript avanzado",
+  "license": "MIT",
+  "author": "Sebastian Miranda",
+  "keywords": [
+    "Platzi Video"
+  ],
+  "scripts": {
+    "start": "live-server"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
